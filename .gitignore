@@ -85,3 +85,5 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 My project/Library/PackageCache/com.unity.toolchain.linux-x86_64/
+
+My project/Library/**
